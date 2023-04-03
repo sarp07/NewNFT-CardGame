@@ -44,7 +44,7 @@ import leoClaim from './cards/Leo_Claim.png';
 import dirtyCabs from './cards/Dirty_Cabs.png';
 
 // logo
-import logo from './logo.png';
+import logo from './Logo.png';
 
 // icon
 import attack from './attack.png';
