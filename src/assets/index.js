@@ -1,12 +1,12 @@
 // backgrounds
-import saiman from './background/saiman.jpg';
-import astral from './background/astral.jpg';
-import eoaalien from './background/eoaalien.jpg';
-import panight from './background/panight.jpg';
+import silverCanyon from './background/silverCanyon.jpg';
+import sunlightCanyon from './background/sunlightCanyon.jpg';
+import template from './background/template.jpg';
+import volcanicRock from './background/volcanicRock.jpg';
 import heroImg from './background/hero-img.jpg';
 
 // cards
-// import ace from './Ace.png';
+//  import ace from './Ace.png';
 // import bakezori from './Bakezori.png';
 // import blackSolus from './Black_Solus.png';
 // import calligrapher from './Calligrapher.png';
@@ -101,10 +101,10 @@ export const allCards = [
 ];
 
 export {
-  saiman,
-  astral,
-  eoaalien,
-  panight,
+  silverCanyon,
+  sunlightCanyon,
+  template,
+  volcanicRock,
   heroImg,
 
   // ace,
@@ -160,10 +160,10 @@ export {
 };
 
 export const battlegrounds = [
-  { id: 'bg-saiman', image: saiman, name: 'Saiman' },
-  { id: 'bg-astral', image: astral, name: 'Astral' },
-  { id: 'bg-eoaalien', image: eoaalien, name: 'Eoaalien' },
-  { id: 'bg-panight', image: panight, name: 'Panight' },
+  { id: 'bg-silverCanyon', image: silverCanyon, name: 'silverCanyon' },
+  { id: 'bg-sunlightCanyon', image: sunlightCanyon, name: 'sunlightCanyon' },
+  { id: 'bg-template', image: template, name: 'template' },
+  { id: 'bg-volcanicRock', image: volcanicRock, name: 'volcanicRock' },
 ];
 
 export const gameRules = [
